@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "webVersion": 49003,
-  "versionName": "4.9.3",
+  "webVersion": 49004,
+  "versionName": "4.9.4",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "Hoàn thiện M4X Radio và buộc tải lại giao diện",
-  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.3/web-update.zip",
-  "sha256": "4b36557d54b67f9b0a273fab38edc93f5c51671c29403a7a7c03b4263959b995",
-  "size": 750255
+  "message": "Sửa lỗi bảng quản lý bài đăng tự xuất hiện liên tục",
+  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.4/web-update.zip",
+  "sha256": "492637e1e10b315e790a842a8654ec6b3a680ff5f2d47aad942456b2bf17d40d",
+  "size": 750260
 }
