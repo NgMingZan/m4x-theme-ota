@@ -4,8 +4,8 @@
   "versionName": "4.9.8",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "Xóa mục chỉnh sửa Theme trùng và sửa chức năng lưucd",
+  "message": "Xóa mục chỉnh sửa Theme trùng và sửa chức năng lưu",
   "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.8/web-update.zip",
-  "sha256": "b87290bcfabd99d7a4a8cd57e6bce0a86418cda6d3e39cf70817b1e04189d1e8",
+  "sha256": "092cab4bb7f6915fd3b1bcd9e740a3295738aacbf73cfacc49258c7fa33f73cf",
   "size": 755090
 }
