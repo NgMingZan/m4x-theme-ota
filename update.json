@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "webVersion": 48000,
+  "versionName": "4.8.0",
+  "minAppVersionCode": 29,
+  "mandatory": false,
+  "message": "Bạn đang dùng phiên bản mới nhất",
+  "url": "",
+  "sha256": "",
+  "size": 0
+}
