@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "webVersion": 49006,
-  "versionName": "4.9.6",
+  "webVersion": 49007,
+  "versionName": "4.9.7",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "Thêm quản lý Theme cho Admin, đồng bộ avatar và chọn ảnh bài đăng",
-  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.6/web-update.zip",
-  "sha256": "e5141aa79a75a379bd1ba7df38515c3ef219741761c3fc08de30a0b587f71650",
-  "size": 752668
+  "message": "Admin có thể sửa, xóa và khôi phục từng Theme",
+  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.7/web-update.zip",
+  "sha256": "91decd278567db10dc38719b23f0997cce75a355a076029e491df5a17131a36c",
+  "size": 755202
 }
