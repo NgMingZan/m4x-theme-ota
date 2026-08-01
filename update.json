@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "webVersion": 49005,
-  "versionName": "4.9.5",
+  "webVersion": 49006,
+  "versionName": "4.9.6",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "Sửa dứt điểm bảng quản lý bài đăng tự bật",
-  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.5/web-update.zip",
-  "sha256": "c505d056274f1ba89a37c260e442b188b97b11ece6b922c5cbbea7d6ef992f55",
-  "size": 750259
+  "message": "Thêm quản lý Theme cho Admin, đồng bộ avatar và chọn ảnh bài đăng",
+  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.6/web-update.zip",
+  "sha256": "e5141aa79a75a379bd1ba7df38515c3ef219741761c3fc08de30a0b587f71650",
+  "size": 752668
 }
