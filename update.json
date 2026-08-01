@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "webVersion": 48002,
-  "versionName": "4.8.2",
+  "webVersion": 48003,
+  "versionName": "4.8.3",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "Bản ổn định, tối ưu hệ thống cập nhật trực tuyến",
-  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.8.2/web-update.zip",
-  "sha256": "9b6a847cb889b99930fc060eb20d768ab50ebc70a5229131d6e54db0acec2f47",
-  "size": 693413
+  "message": "Cập nhật phiên bản hiển thị và kiểm tra phát hành tự động",
+  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.8.3/web-update.zip",
+  "sha256": "e521f39fe2f5c21def699b32c00a58b175038be9d48db5859a9f2a30eea227eb",
+  "size": 693414
 }
