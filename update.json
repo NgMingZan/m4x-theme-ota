@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "webVersion": 49000,
-  "versionName": "4.9.0",
+  "webVersion": 49001,
+  "versionName": "4.9.1",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "Cộng đồng 2.0: bài viết, bình luận, reaction và theo dõi",
-  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.0/web-update.zip",
-  "sha256": "74587a1edece680cba150de62bbb46c8c0f64ff2f93ee6f716c7d4496d5d9da9",
-  "size": 701780
+  "message": "Sửa tải bài đăng Cộng đồng và thêm nút M4X Radio",
+  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.1/web-update.zip",
+  "sha256": "25fa38318fa3b8738d6b333e918b0a33e9b8699601444ac0641b836b3ae537df",
+  "size": 702079
 }
