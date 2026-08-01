@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "webVersion": 48000,
-  "versionName": "4.8.0",
+  "webVersion": 48001,
+  "versionName": "4.8.1",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "Bạn đang dùng phiên bản mới nhất",
-  "url": "",
-  "sha256": "",
-  "size": 0
+  "message": "Cập nhật thử nghiệm OTA 4.8.1",
+  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.8.1/web-update.zip",
+  "sha256": "045419c3212d3a8e75eb77ed5a263022b91bd048ccd755f1924d1f85c14bd7fc",
+  "size": 693701
 }
