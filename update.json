@@ -4,7 +4,7 @@
   "versionName": "1.3.3",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "Sửa vòng quay: phí 25 điểm, thưởng tối đa 3.500 điểm và tính lãi lỗ chính xác",
+  "message": "Sửa vòng quay phí 25 điểm, bỏ giải 10 điểm, tính lãi lỗ chính xác",
   "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-1.3.3/web-update.zip",
   "sha256": "e7173e77b68f23fc892b9ec26182276e32aa979e8bc4fc67af8abe0091277d6f",
   "size": 75102
