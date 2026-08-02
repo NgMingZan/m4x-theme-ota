@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "webVersion": 49012,
-  "versionName": "4.9.12",
+  "webVersion": 50000,
+  "versionName": "5.0",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "Thay trình phát YouTube bằng M4X Web mở liên kết trực tiếp trong app",
-  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.12/web-update.zip",
-  "sha256": "40baf6e3bf1c654d0e65b9bf6623fdd68a64494a05d0244efe17eb1c1ee50841",
-  "size": 714279
+  "message": "M4X 5.0: thay YouTube bằng trình duyệt web hoạt động trực tiếp trong app",
+  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-5.0/web-update.zip",
+  "sha256": "b3c7b802645d8de1d601f51e127ac87470fd24ada91819cd90897dc3e0dd82dd",
+  "size": 714310
 }
