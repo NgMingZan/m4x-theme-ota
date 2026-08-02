@@ -4,8 +4,8 @@
   "versionName": "4.9.12",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "Sửa lag và lỗi không tìm thấy Theme khi chỉnh sửa",
+  "message": "Thay trình phát YouTube bằng M4X Web mở liên kết trực tiếp trong app",
   "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.12/web-update.zip",
-  "sha256": "7bf3540d3bd50e06c56ac1fecef1f2b4d25d79743a83947cc72f182225895d71",
-  "size": 716667
+  "sha256": "40baf6e3bf1c654d0e65b9bf6623fdd68a64494a05d0244efe17eb1c1ee50841",
+  "size": 714279
 }
