@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "webVersion": 49010,
-  "versionName": "4.9.10",
+  "webVersion": 49011,
+  "versionName": "4.9.11",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "Sửa nút Lưu Theme không nhận thao tác",
-  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.10/web-update.zip",
-  "sha256": "eb889125470ecb3d690d4c93b164cb795ab8543bdfc4f494ff593dbcd611e286",
-  "size": 760193
+  "message": "Sửa dứt điểm lưu và đồng bộ thông tin Theme",
+  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.11/web-update.zip",
+  "sha256": "7e8129d15ba025aa934d975c85d4cebb793a69a66222b853816c8a164067509e",
+  "size": 714057
 }
