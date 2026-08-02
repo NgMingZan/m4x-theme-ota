@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "webVersion": 49011,
-  "versionName": "4.9.11",
+  "webVersion": 49012,
+  "versionName": "4.9.12",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "Sửa dứt điểm lưu và đồng bộ thông tin Theme",
-  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.11/web-update.zip",
-  "sha256": "0eabb79d560080ebc56e093e2a54df5ab4edbf4e6dd4cb81d75663db50fd741b",
-  "size": 714057
+  "message": "Sửa lag Quản trị Theme và tối ưu tải danh sách",
+  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-4.9.12/web-update.zip",
+  "sha256": "ff7c305f80332045b9ac964a86763576a5909af86bc206e17ac58354ace65115",
+  "size": 714453
 }
