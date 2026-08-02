@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "webVersion": 50000,
-  "versionName": "5.0",
+  "webVersion": 48303,
+  "versionName": "1.3.3",
   "minAppVersionCode": 29,
   "mandatory": false,
-  "message": "M4X 5.0: thay YouTube bằng trình duyệt web hoạt động trực tiếp trong app",
-  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-5.0/web-update.zip",
-  "sha256": "b3c7b802645d8de1d601f51e127ac87470fd24ada91819cd90897dc3e0dd82dd",
-  "size": 714310
+  "message": "Sửa vòng quay: phí 25 điểm, thưởng tối đa 3.500 điểm và tính lãi lỗ chính xác",
+  "url": "https://github.com/NgMingZan/m4x-theme-ota/releases/download/web-1.3.3/web-update.zip",
+  "sha256": "e7173e77b68f23fc892b9ec26182276e32aa979e8bc4fc67af8abe0091277d6f",
+  "size": 75102
 }
